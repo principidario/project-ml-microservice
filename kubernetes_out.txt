@@ -7,4 +7,9 @@ service/ml-http exposed
 Forwarding from 127.0.0.1:8000 -> 80
 Forwarding from [::1]:8000 -> 80
 
+[2022-03-15 18:13:42,677] INFO in app: JSON payload:{'SL': 0.07471338, 'SW': 0.09794497, 'PL': 0.02951407, 'PW': 0.01150299}
+
+[2022-03-15 18:13:42,804] INFO in app: Predicted label:0
+
+127.0.0.1 - - [15/Mar/2022 18:13:42] "POST /predict HTTP/1.1" 200 -
 
