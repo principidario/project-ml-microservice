@@ -49,3 +49,14 @@ source .devops/bin/activate
 * Setup and Configure Kubernetes locally
 * Create Flask app in Container
 * Run via kubectl
+
+
+## Summary of work done
+
+I have problems installing python requirements, so I decided to use the latest version of all the python libraries. Because of this, I couldn't import the joblib file with the ml model. Therefore I change the code to run a previously trained model based on Iris flower dataset.
+
+Besides that, app.py worked well in the virtual environment, in docker container and with kubernetes.
+
+I have a strange problem with pylint. When I type "pytlint ... app.py" no problem, works fine, but when I run the command "make lint", it returns errors.
+
+
