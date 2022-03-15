@@ -1,4 +1,5 @@
-<include a CircleCI status badge, here>
+[![principidario](https://circleci.com/gh/principidario/project-ml-microservice.svg?style=svg)]
+
 
 ## Project Overview
 
