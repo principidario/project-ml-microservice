@@ -1,4 +1,4 @@
-[![principidario](https://circleci.com/gh/principidario/project-ml-microservice.svg?style=svg)]
+![principidario](https://circleci.com/gh/principidario/project-ml-microservice.svg?style=svg)
 
 
 ## Project Overview
